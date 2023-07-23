@@ -31,12 +31,12 @@
 - The gender distribution across departments is fairly balanced but there are generally more male than female employees
 - Most employees are white while the least are Native Hawaiian
 - The youngest employee is 20 years old and the oldest is 57 years old.
-- 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). A largest number of employees were between 25-34 followed by 35-44 while 55-64 being the smallest
+- 5 age groups were created (18-24, 25-34, 35-44, 45-54, 55-64). The largest number of employees were between 25-34 followed by 35-44 while 55-64 was the smallest
 - The average length of employment for terminated employees is around 8 years
-- The Marketing department has the highest turnover rate followed by Training. The least turnover rate are in the Research and development, Support and Legal departments.
-- A large number of employees come from the state of Ohio
+- The Marketing department has the highest turnover rate followed by Training. The lowest turnover rate departments are the Research and development, Support and Legal departments.
+- The largest number of employees come from the state of Ohio
 - The net change in employees has increased over the years.
-- The average tenure for each department is about 8 years with Legal and Auditing having the highest and Service, Sales and Marketing having the lowest.
+- The average tenure(time as job title) for each department is about 8 years with Legal and Auditing having the highest and Service, Sales and Marketing having the lowest.
 
 ## Limitations
 
